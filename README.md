@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/tbrand">
+<img src="https://github-readme-stats.vercel.app/api?username=tbrand&count_private=true&show_icons=true&theme=nightowl&line_height=27&bg_color=1e2145" align="center">
+</a>
+<a href="https://github.com/tbrand">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbrand&title_color=c491ee&text_color=8ddac8&bg_color=1e2145&langs_count=3" align="center">
+</a>
 
 <!--
 **tbrand/tbrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
